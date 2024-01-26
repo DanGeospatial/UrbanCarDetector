@@ -22,4 +22,4 @@ Next, when we look at the total run time to train each model we get a very diffe
 
 __________________________________________________________
 
-DETReg produced the highest average precision score and required the largest number of epochs whereas FasterRCNN provided a balance between accuracy and processing time. After resnet50 adding more layers did not improve model.
+DETReg produced the highest average precision score and required the largest number of epochs whereas FasterRCNN provided a balance between accuracy and processing time. After resnet50 adding more layers did not improve the model. The object and model datasets may be available to download at a future date.
